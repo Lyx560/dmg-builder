@@ -7,7 +7,7 @@ dmg builder is a Python-powered tool that converts .app files to .dmg files.
 </p>
 
 <p align="center">
-<a href="README-en.md">中文</a> | English
+<a href="README.md">中文</a> | English
 </p>
 
 ## Usage:
