@@ -1,9 +1,9 @@
 <h1 align="center">
  dmg builder
 </h1>
-dmg builder is a Python-powered tool that converts .app files to .dmg files.
+
 <p align="center">
-一款用python打造的将.app文件转换为.dmg文件
+dmg builder is a Python-powered tool that converts .app files to .dmg files.
 </p>
 
 <p align="center">
